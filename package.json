@@ -46,7 +46,7 @@
     "gatsby-source-filesystem": "^4.22.0",
     "gatsby-theme-i18n": "^3.0.0",
     "gatsby-transformer-yaml": "^4.22.0",
-    "isomorphic-dompurify": "^0.24.0",
+    "isomorphic-dompurify": "^3.22.0",
     "node-fetch": "~2.6.7",
     "patch-package": "^6.4.7",
     "prismjs": "^1.29.0",
@@ -61,7 +61,7 @@
     "reading-time": "^1.5.0",
     "string-similarity": "^4.0.4",
     "typescript": "^4.8.3",
-    "yaml": "^2.1.1"
+    "yaml": "^2.8.3"
   },
   "keywords": [
     "gatsby",
@@ -95,7 +95,7 @@
     "postinstall": "patch-package"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.5",
+    "@babel/core": "^7.29.6",
     "@babel/preset-typescript": "^7.18.6",
     "@testing-library/dom": "^8.17.1",
     "@testing-library/jest-dom": "^5.16.5",
